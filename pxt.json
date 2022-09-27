@@ -1,5 +1,5 @@
 {
-    "name": "maqueen-2",
+    "name": "maqueen-3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -23,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
